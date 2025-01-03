@@ -1,0 +1,147 @@
+.div1
+{
+    background-color: black;
+    position: absolute;
+    width:100%;
+    
+}
+.contact_details
+{
+    border:1px solid #121212;
+    width:40%;
+    height:40%;
+    height:150px;
+    margin-top:50px;
+    margin-left:400px;
+    background-color: #121212 !important ;
+    color:white;
+    border-radius: 10px;
+}
+.contact_details p{
+    margin-left: 30px;
+}
+
+.shipping_details
+{
+    border:1px solid #121212;
+    width:40%;
+    height:40%;
+    margin-top:50px;
+    margin-left:400px;
+    background-color: #121212 !important ;
+    color:white;
+    border-radius: 10px;
+}
+.shipping_details p{
+    margin-left: 30px;
+    
+}
+
+.items
+{
+    border:1px solid #121212;
+    width:40%;
+    /* height:50%; */
+    height:200px;
+    margin-top:50px;
+    margin-left:400px;
+    background-color: #121212 !important ;
+    border-radius: 10px;
+    color:white;
+}
+.items p{
+    margin-left: 30px;
+}
+.coupon
+{
+    border:1px solid #121212;
+    width:40%;
+    height:150px;
+    margin-top:50px;
+    margin-left:400px;
+    background-color: #121212 !important ;
+    border-radius: 10px;
+    color:white;
+}
+.coupon p{
+    margin-left: 30px;
+}
+.payment
+{
+    border:1px solid #121212;
+    width:40%;
+    height:200px;
+    margin-top:50px;
+    margin-left:400px;
+    background-color: #121212 !important ;
+    border-radius: 10px;
+    color:white;
+}
+.payment p{
+    margin-left: 30px;
+}
+h2{
+    margin-left:400px;
+    color:white;
+    border-bottom: 6px solid green;
+    width:200px;
+    display: inline-block;
+    padding-bottom: 5px;
+   
+}
+h1{
+    margin-left:400px;
+    color:white;
+}
+h3{
+    margin-left: 30px;
+}
+.back_button
+{
+    margin-top: 50px;
+    margin-left: 400px;
+    padding:10px;
+    border-radius: 10px;
+}
+.place_order
+{
+    margin-top: 50px;
+    margin-left: 450px;
+    padding:10px;
+    border-radius: 5px;
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+}
+table{
+    margin-left: 30px;
+}
+.boxess
+{
+    margin-left: 30px;
+    background-color: #121212;
+    border: 3px solid green;
+    width:390px;
+    border-radius: 10px;
+}
+.apply_button
+{
+    width:80px;
+    height:50px;
+    border-radius: 10px;
+   color:white;
+   background-color: green;
+}
+.h4
+{
+    color:white;
+    margin-left: 450px;
+}
+.text_box
+{
+    width:280px;
+    height:30px;
+    color:white;
+    background-color: #121212;
+
+}
